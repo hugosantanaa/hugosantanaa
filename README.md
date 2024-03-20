@@ -1,4 +1,4 @@
-### TOMA!!!
+###TOMA!!!
 
 <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=hugosantanaa&show_icons=true&theme=synthwave"/>  
@@ -28,5 +28,4 @@ ___________________________________________________________________________
 <br>
 <div>
 <img align="center" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
 </div>
